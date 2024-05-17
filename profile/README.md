@@ -1,0 +1,3 @@
+Aims to facilitate efficiency and robustness through decentralised technologies.
+ - Trustless Collaboration protocol facilitates adversarial test driven development and was presented with a lot of joy at the [Ethereum Conference [4]](https://trucol.io/). Currently it is a non-deployed proof-of-concept, which we aim to rewrite using Chainlink VRF and oracles to query the build status of the pull requests.
+ - A [decentralised investment protocol](https://github.com/TruCol/Decentralised-Saas-Investment-Protocol) that shifts the power back into the innovators, whilst opening up the investment opportunities from a select few VC's towards anyone with cryptocurrencies.
